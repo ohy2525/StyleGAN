@@ -35,3 +35,5 @@
 * Style Transfer
 
 <img width="80%" src="https://user-images.githubusercontent.com/16822641/105323215-38ab1b00-5c0d-11eb-9442-4623b59820bd.png"/>
+
+## 출처 : https://github.com/ndb796/PyTorch-StyleGAN-Face-Editting
